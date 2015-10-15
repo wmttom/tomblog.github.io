@@ -3,9 +3,9 @@
   <title><![CDATA[tom 的博客]]></title>
   
   <link href="/atom.xml" rel="self"/>
-  <link href="http://tomif.com/"/>
+  <link href="http://tomblog.github.io/"/>
   <updated>2015-10-15T09:35:38.000Z</updated>
-  <id>http://tomif.com/</id>
+  <id>http://tomblog.github.io/</id>
   
   <author>
     <name><![CDATA[tom]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[新的开始]]></title>
-    <link href="http://tomif.com/2015/10/15/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
-    <id>http://tomif.com/2015/10/15/新的开始/</id>
+    <link href="http://tomblog.github.io/2015/10/15/%E6%96%B0%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
+    <id>http://tomblog.github.io/2015/10/15/新的开始/</id>
     <published>2015-10-15T09:31:58.000Z</published>
     <updated>2015-10-15T09:35:38.000Z</updated>
     <content type="html"><![CDATA[<p>最近感觉 rst 不如 markdown 顺手，readthedoc 作为代码托管网站并不是十分适合写博客。<br>迁移了新的系统，新的开始。</p>
@@ -27,7 +27,7 @@
 ]]>
     </summary>
     
-      <category term="事件" scheme="http://tomif.com/tags/%E4%BA%8B%E4%BB%B6/"/>
+      <category term="事件" scheme="http://tomblog.github.io/tags/%E4%BA%8B%E4%BB%B6/"/>
     
   </entry>
   
